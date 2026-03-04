@@ -1,4 +1,4 @@
-**Decision support course work ** (5op)
+**Decision support course work**  (5op)
 
 __Week 2_ – Introduction to Decision Support_
 
